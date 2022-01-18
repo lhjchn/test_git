@@ -14,6 +14,7 @@ buildNumber.properties
 **/mvnw.cmd
 #忽略编译的文件
 #**/target/
+target/*.txt
 **/*.iml
 .idea
 
