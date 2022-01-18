@@ -12,9 +12,10 @@ buildNumber.properties
 **/.mvn
 **/mvnw
 **/mvnw.cmd
-#忽略编译的文件
+#忽略target文件夹及其下的内容
 #**/target/
 target/*.txt
+/test
 **/*.iml
 .idea
 
